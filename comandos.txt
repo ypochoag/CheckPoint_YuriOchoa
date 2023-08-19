@@ -1,0 +1,22 @@
+ Id     Duration CommandLine
+  --     -------- -----------
+   1        0.246 try { . "c:\Users\Yuri Ochoa\AppData\Local\Programs\Microsoft …
+   2        0.245 git init
+   3        0.079 git add README.md
+   4        0.244 git commit -m "commit 00 Yuri Ochoa"
+   5        0.164 git branch -M main
+   6        0.179 git remote add origin git@github.com:ypochoag/CheckPoint_YuriO… 
+   7       13.851 git push -u origin main
+   8        0.061 git add .
+   9        0.351 git commit -m "commit 01 Yuri Ochoa"
+  10        8.820 git push -u origin main
+  11        0.193 git branch feature
+  12        0.136 git checkout feature
+  13        0.154 git status
+  14        0.156 git add .
+  15        0.151 git commit -m "commit 02 Yuri Ochoa"
+  16        9.463 git push -u origin feature
+  17        0.203 git checkout main
+  18        0.245 git history
+  19        0.548 git log
+  20        0.211 git log command
